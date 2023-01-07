@@ -1,3 +1,3 @@
-LSTM_IMDB(1).ipynb is a code example of IMDB sentiment classification using LSTM.
+LSTM_IMDB(1).ipynb is a simple code example of IMDB sentiment classification using LSTM.
 The below video explains no. of parameters involved in LSTM layer 
 https://www.youtube.com/watch?v=l5TAISVlYM0
